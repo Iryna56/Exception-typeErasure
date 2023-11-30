@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="compile:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/compile_jar2</output-path>
+    <root id="archive" name="compile.jar">
+      <element id="module-output" name="Exception-typeErasure" />
+    </root>
+  </artifact>
+</component>
